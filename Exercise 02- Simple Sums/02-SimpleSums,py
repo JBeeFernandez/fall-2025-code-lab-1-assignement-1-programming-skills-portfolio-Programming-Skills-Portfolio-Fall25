@@ -1,0 +1,7 @@
+# storing integers in the variables
+no1 = 8
+no2 = 10
+# addition
+sum = no1 + no2
+# prints the summary
+print(f'{sum}')
